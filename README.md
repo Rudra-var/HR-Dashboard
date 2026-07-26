@@ -110,13 +110,13 @@ Using this dashboard, HR teams can:
 Example:
 
 ```
-images/HR Dashboard.png
+"C:\Users\rudra\OneDrive\Desktop\HR Dashboard JPG.png"
 ```
 
 or
 
 ```markdown
-![HR Dashboard](images/hr-dashboard.png)
+![HR Dashboard]("C:\Users\rudra\OneDrive\Desktop\HR Dashboard JPG.png")
 ```
 
 ---
