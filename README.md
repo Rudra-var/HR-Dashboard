@@ -109,8 +109,8 @@ Using this dashboard, HR teams can:
 
 Example:
 
-```
-"C:\Users\rudra\OneDrive\Desktop\HR Dashboard JPG.png"
+```[
+"C:\Users\rudra\OneDrive\Desktop\HR Dashboard JPG.png"](https://github.com/Rudra-var/HR-Dashboard/blob/main/HR%20Dashboard%20JPG.png)
 ```
 
 or
