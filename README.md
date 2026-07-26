@@ -1,58 +1,167 @@
-# HR-Dashboard
+# 👨‍💼 HR Analytics Dashboard
 
-## Recommended Structure and Order
-
-### 1. Project Title / Headline
-
-A concise, descriptive name for the dashboard.
-
-Example:
-
-❄️ Snowy Analytics: Global Ski Resort Insights Dashboard
-
-A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+An interactive Power BI dashboard designed to provide HR teams and business leaders with key workforce insights. The dashboard helps analyze employee demographics, salary distribution, hiring trends, job roles, education levels, and leave balances to support data-driven HR decisions.
 
 ---
 
-### 2. Short Description / Purpose
+# 📌 Project Overview
 
-1–2 sentences explaining what the dashboard does and why it exists.
+The HR Analytics Dashboard provides a comprehensive overview of an organization's workforce. It enables HR professionals to monitor employee statistics, understand workforce composition, analyze salary patterns, and track hiring growth over time.
 
-Example:
-
-The Snowy Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 499 ski resorts across 38 countries and 5 continents. The dashboard focuses on highlighting major ski resort features like snow reliability, night skiing, lift types, and slope difficulty. This tool is intended for use by tourism analysts, winter sports enthusiasts, and data-driven strategists who seek to understand trends and characteristics of ski resorts globally.
-
-### 3. Tech Stack
-
-List the key technologies used to build the dashboard.
-
-Example:
-
-The dashboard was built using the following tools and technologies:
-
-- 📊 **Power BI Desktop** – Main data visualization platform used for report creation.
-- 📁 **Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.
-- 🧠 **DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic.
-- 📄 **Data Modeling** – Relationships established among tables (resorts, snow, and data_dictionary) to enable comprehensive analysis.
-- 📁 **File Format** – `.pbix` for development and `.png` for dashboard previews.
-
-### 4. Data Source
-
-More info on where the data comes from and how it's structured.
-
-**Example:**
-
-**Source:** Ski-resort-stats.com & NASA Earth Observations.
-
-Data on ~500 ski resorts around the world, including details on their location, prices, slopes, lifts, and seasons, as well as a complementary table with the snow cover around the world for each month of 2022.
+The dashboard is designed to simplify HR reporting by transforming raw employee data into meaningful visual insights that assist in workforce planning and strategic decision-making.
 
 ---
 
-### 5. Features / Highlights
+# 🛠 Tech Stack
 
-The best dashboard explanation format.
+The dashboard was built using the following technologies:
 
-- Business problem
-- Goal of the dashboard
-- Walk through of key visuals (briefly!)
-- Business impact & Insights
+- 📊 **Power BI Desktop** – Data visualization and dashboard development.
+- 🔄 **Power Query** – Data cleaning, transformation, and preprocessing.
+- 🧮 **DAX (Data Analysis Expressions)** – Created KPIs, calculated measures, and business logic.
+- 🗂 **Data Modeling** – Established relationships between HR data tables for efficient analysis.
+- 📁 **File Format**
+  - `.pbix` – Power BI project file
+  - `.png` – Dashboard preview
+
+---
+
+# 📂 Data Source
+
+**Source:** HR Employee Dataset (Sample Dataset)
+
+The dataset contains employee-level information including:
+
+- Employee ID
+- Department
+- Job Role
+- Gender
+- Age
+- Salary
+- Qualification
+- Date of Joining
+- Leave Balance
+
+The data was cleaned and transformed using Power Query before building the dashboard.
+
+---
+
+# ✨ Dashboard Features
+
+The dashboard provides insights into:
+
+### 👥 Workforce Overview
+- Total Employee Headcount
+- Average Salary
+- Average Leave Balance
+- Employees with Leave Balance Over 20 Days
+
+### 💼 Job Role Analysis
+- Employee distribution across different job roles
+- Most common and least common positions
+
+### 👩 Gender Distribution
+- Male vs Female employee ratio
+- Percentage contribution of each gender
+
+### 🎂 Age Distribution
+- Employee age distribution
+- Workforce demographic analysis
+
+### 🎓 Salary vs Qualification
+- Relationship between education level and salary
+- Salary comparison across qualifications
+
+### 📈 Hiring Trend Analysis
+- Employee growth over time
+- Cumulative headcount by joining date
+
+---
+
+# 📊 Key KPIs
+
+- 👨‍💼 Total Employees
+- 💰 Average Salary
+- 🌴 Average Leave Balance
+- 📅 Employees with Leave Balance > 20 Days
+- 👩 Female Workforce Percentage
+- 📈 Employee Hiring Trend
+
+---
+
+# 📈 Business Insights
+
+Using this dashboard, HR teams can:
+
+- Monitor overall workforce composition.
+- Identify departments with the highest employee count.
+- Analyze salary distribution across education levels.
+- Understand workforce gender diversity.
+- Track hiring growth over multiple years.
+- Evaluate employee leave balance trends.
+- Support strategic workforce planning.
+
+---
+
+# 📷 Dashboard Preview
+
+> *(Add your dashboard screenshot here)*
+
+Example:
+
+```
+images/HR Dashboard.png
+```
+
+or
+
+```markdown
+![HR Dashboard](images/hr-dashboard.png)
+```
+
+---
+
+# 🚀 How to Use
+
+1. Download the repository.
+2. Open the `.pbix` file using **Power BI Desktop**.
+3. Refresh the dataset if required.
+4. Explore the interactive dashboard using filters and visuals.
+
+---
+
+# 📌 Skills Demonstrated
+
+- Power BI Dashboard Design
+- Data Cleaning using Power Query
+- DAX Calculations
+- KPI Development
+- HR Analytics
+- Data Visualization
+- Business Intelligence
+- Data Modeling
+
+---
+
+# 🎯 Future Improvements
+
+- Add employee attrition analysis.
+- Include department-wise performance metrics.
+- Add recruitment and resignation trends.
+- Implement dynamic drill-through pages.
+- Add interactive slicers for department, gender, and year.
+
+---
+
+# 👨‍💻 Author
+
+**Rudra Varshney**
+
+- 💼 Aspiring Data Analyst
+- 📊 SQL | Power BI | Excel | Python
+- 🌐 GitHub: https://github.com/Rudra-var
+- 🔗 LinkedIn: *(Add your LinkedIn profile link)*
+
+---
+
+⭐ If you found this project useful, consider giving it a **Star** on GitHub!
