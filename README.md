@@ -103,22 +103,13 @@ Using this dashboard, HR teams can:
 
 ---
 
-# 📷 Dashboard Preview
+# 📷 Dashboard Previeww
 
-> *(Add your dashboard screenshot here)*
-
-Example:
-
-```[
 ![HR Dashboard](HR%20Dashboard%20JPG.png)
-```
 
-or
+---
 
-```markdown
-![HR Dashboard](HR%20Dashboard%20JPG.png)
-```
-
+# 🚀 How to Use
 ---
 
 # 🚀 How to Use
