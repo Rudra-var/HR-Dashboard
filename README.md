@@ -130,17 +130,6 @@ Using this dashboard, HR teams can:
 - Data Modeling
 
 ---
-
-# 🎯 Future Improvements
-
-- Add employee attrition analysis.
-- Include department-wise performance metrics.
-- Add recruitment and resignation trends.
-- Implement dynamic drill-through pages.
-- Add interactive slicers for department, gender, and year.
-
----
-
 # 👨‍💻 Author
 
 **Rudra Varshney**
@@ -148,7 +137,7 @@ Using this dashboard, HR teams can:
 - 💼 Aspiring Data Analyst
 - 📊 SQL | Power BI | Excel | Python
 - 🌐 GitHub: https://github.com/Rudra-var
-- 🔗 LinkedIn: *(Add your LinkedIn profile link)*
+- 🔗 LinkedIn: https://www.linkedin.com/in/rudra-varshney-36b25924b/
 
 ---
 
