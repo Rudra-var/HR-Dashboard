@@ -110,9 +110,6 @@ Using this dashboard, HR teams can:
 ---
 
 # 🚀 How to Use
----
-
-# 🚀 How to Use
 
 1. Download the repository.
 2. Open the `.pbix` file using **Power BI Desktop**.
